@@ -1,0 +1,6 @@
+step 1 use echo to make changes to the file 
+step 2 wgit statjus and git diff to check what changed 
+step 3 git add to stage the changes
+step 4 commit a message
+step 5 push to github
+
